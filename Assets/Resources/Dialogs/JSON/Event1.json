@@ -1,0 +1,46 @@
+﻿[
+  {
+    "SOO": [
+      {
+        "1": [
+          "How are you?",
+          {
+            "Player": "Hello Tom, How are you? It’s been a long time we have met."
+          },
+          {
+            "Tom": "Oh Hi Mark, I am doing good. What about you?"
+          },
+          {
+            "Player": "I am fine too, thanks."
+          },
+          {
+            "EOO": "EOO"
+          }
+        ]
+      },
+      {
+        "2": [
+          "Join family",
+          {
+            "Player": "Hey, why don’t you join me and my family for tomorrow’s lunch. They will also be happy to see you."
+          },
+          {
+            "Tom": "Actually, that’s a great idea. I would love to meet them."
+          },
+          {
+            "EOO": "EOO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Player": "See you Tom!"
+  },
+  {
+    "Tom": "See you!"
+  },
+  {
+    "EOD": "EOD"
+  }
+]
